@@ -59,7 +59,8 @@ custom-setup
     base,
     Cabal,
     directory,
-    process
+    process,
+    filepath
 
 library
     -- Import common warning flags.
