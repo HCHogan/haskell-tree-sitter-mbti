@@ -1,0 +1,3 @@
+[submodule "vendor/tree-sitter-mbti"]
+	path = vendor/tree-sitter-mbti
+	url = https://github.com/tonyfettes/tree-sitter-mbti.git
